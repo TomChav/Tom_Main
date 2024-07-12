@@ -1,6 +1,6 @@
 # Your Name
 
-[Email](mailto:chaveza.tj@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tomchava) | [GitHub](https://github.com/TomChav)
+[Email me](mailto:chaveza.tj@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tomchava) | [GitHub](https://github.com/TomChav)
 
 ---
 
