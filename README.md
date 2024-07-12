@@ -12,21 +12,8 @@
 
 ## Projects
 
-**Project Name**  
-*Brief description of the project*  
-Month Year - Month Year
-
-- Describe the project and your contributions
-- Highlight skills and technologies used
-- Include links to the project if available
-
-**Project Name**  
-*Brief description of the project*  
-Month Year - Month Year
-
-- Describe the project and your contributions
-- Highlight skills and technologies used
-- Include links to the project if available
+**UI for SQL**  
+[UI](https://github.com/TomChav/User-Interface-for-SQL-Queries-Visualization)
 
 ---
 
