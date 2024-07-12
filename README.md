@@ -1,4 +1,4 @@
-# Tpmás Chávez Álvarez
+# Tomás Chávez Álvarez
 
 [Email me](mailto:chaveza.tj@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tomchava) | [GitHub](https://github.com/TomChav)
 
